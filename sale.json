@@ -1,0 +1,28 @@
+[
+    {
+        "reciept_number": "erjhyyrf",
+        "sale_date": "rjfyg",
+        "employee": "rbhgrejk",
+        "customer": "jhdikehg"
+    },
+    {
+        "reciept_number": "enhjgyuri",
+        "product": "jkrehugyr",
+        "quantity": "rjuifg",
+        "unit_price": "jkhrtgyrt",
+        "sale_item_id": "erjhui"
+    },
+    {
+        "reciept_number": "",
+        "sale_date": "",
+        "employee": "",
+        "customer": ""
+    },
+    {
+        "reciept_number": "",
+        "product": "",
+        "quantity": "",
+        "unit_price": "",
+        "sale_item_id": ""
+    }
+]

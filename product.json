@@ -1,0 +1,48 @@
+[
+    {
+        "product_name": "bread",
+        "product_quantity": "30",
+        "product_price": "3000",
+        "category_id": "2333"
+    },
+    {
+        "product_name": "fish",
+        "product_quantity": "3",
+        "product_price": "4000",
+        "category_id": "233"
+    },
+    {
+        "stock_id": "2444",
+        "date": "23"
+    },
+    {
+        "product_name": "banana",
+        "product_quantity": "5",
+        "product_price": "6000",
+        "category_id": "333"
+    },
+    {
+        "product_name": "isjopr",
+        "product_quantity": "jdfi",
+        "product_price": "kjehioru",
+        "category_id": "uehioru"
+    },
+    {
+        "product_name": "kjerlije",
+        "product_quantity": "ejkrhi",
+        "product_price": "rjenhuewh",
+        "category_id": "wjkbruy34i"
+    },
+    {
+        "product_name": "rhfiu",
+        "product_quantity": "rhfhru",
+        "product_price": "erhui",
+        "category_id": "krjhui"
+    },
+    {
+        "product_name": "",
+        "product_quantity": "",
+        "product_price": "",
+        "category_id": ""
+    }
+]
